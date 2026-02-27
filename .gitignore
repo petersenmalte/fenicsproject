@@ -1,2 +1,6 @@
-out_poisson/poisson.h5
-out_poisson/poisson.xdmf
+*.h5
+*.xdmf
+*.idx
+*.json
+*.0
+*.O
